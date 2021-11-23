@@ -234,9 +234,22 @@ img {vertical-align: middle;}
   }
 
   .about-section {
+      
     padding: 50px;
     text-align: center;
     background-color: teal;
+    color: white;
+  }
+  .about-section2{
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(203, 60, 216);
+    color: white;
+  }
+  .about-section3{
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(130, 231, 99);
     color: white;
   }
 
