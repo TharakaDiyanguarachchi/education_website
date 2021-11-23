@@ -122,11 +122,13 @@ input[type=checkbox]{
 
 
 .container .content{
+    padding-top: 100px;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 .container .content .left-side{
+    
   width: 25%;
   height: 100%;
   display: flex;
